@@ -1,3 +1,7 @@
+# Preview
+![Preview](/public/preview.png?raw=true "VisitPaksitan")
+
+
 # Created With Next js 13 Boilerplate with Tailwind CSS , Typescript and Jest
 
 🚀 Next.js Cv Boilerplate is starter code for your Cv based on Next.js 13+ framework with Tailwind CSS 3.0. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), Airbnb JavaScript Style Guide[Airbnb](https://github.com/airbnb/javascript/tree/master/react), [Jest](https://jestjs.io), [Husky](
@@ -24,6 +28,8 @@ https://typicode.github.io/husky/#/), [lint-staged](https://github.com/okonet/li
 ### Requirements
 
 - Node.js and npm
+
+
 
 
 ### Contributions
