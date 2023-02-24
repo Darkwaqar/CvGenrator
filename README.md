@@ -30,7 +30,10 @@ https://typicode.github.io/husky/#/), [lint-staged](https://github.com/okonet/li
 - Node.js and npm
 
 
-
+### yet to be done
+- Add Multiple Layout
+- Add auth 
+- Save to Database
 
 ### Contributions
 
